@@ -1,2 +1,2 @@
 # contact-manager
- Contact manager using React hooks & context
+ Contact manager application using React hooks, Context API, Nodejs and MongoDB.
